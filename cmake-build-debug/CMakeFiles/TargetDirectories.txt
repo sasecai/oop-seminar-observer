@@ -1,0 +1,5 @@
+/Users/razvanuzum/Desktop/Uni/OOP/OberverPattern/cmake-build-debug/CMakeFiles/OberverPattern.dir
+/Users/razvanuzum/Desktop/Uni/OOP/OberverPattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/razvanuzum/Desktop/Uni/OOP/OberverPattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/razvanuzum/Desktop/Uni/OOP/OberverPattern/cmake-build-debug/CMakeFiles/OberverPattern_autogen_timestamp_deps.dir
+/Users/razvanuzum/Desktop/Uni/OOP/OberverPattern/cmake-build-debug/CMakeFiles/OberverPattern_autogen.dir
